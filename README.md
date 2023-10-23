@@ -1,2 +1,0 @@
-# ImagineX
-For practice purpose
